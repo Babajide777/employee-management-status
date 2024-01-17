@@ -1,0 +1,3 @@
+###Delete memo
+DELETE http://localhost:6000/api/user/delete-memo/4
+Content-Type: application/json
